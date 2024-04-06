@@ -25,4 +25,4 @@ Additionally, I am intrigued by IoT and mobile programming, and I aim to integra
 - CNA Master in English Platinum Completed
 
 # Github Stats 💎  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccanolasco&layout=donut-vertical&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccanolasco&layout=donut-vertical&theme=dracula))]
