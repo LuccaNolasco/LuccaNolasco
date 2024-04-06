@@ -8,4 +8,4 @@ I enjoy languages such as Java and C, along with others used in Object-Oriented 
 Additionally, I am intrigued by IoT and mobile programming, and I aim to integrate these three fields: IoT, mobile development, and Machine Learning. By doing so, I hope to contribute to solving real-world problems and assisting others.
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
