@@ -7,5 +7,19 @@ I enjoy languages such as Java and C, along with others used in Object-Oriented 
 
 Additionally, I am intrigued by IoT and mobile programming, and I aim to integrate these three fields: IoT, mobile development, and Machine Learning. By doing so, I hope to contribute to solving real-world problems and assisting others.
 
-# Skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+# Skills and Tech 💻
+Small experience with Java and Kotlin. Minor experience with Android Studio.
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+# Soft Skills ✏️
+- Fluent english
+- Experience in team work
+- Experience in writing academic papers
+
+# Work Experience 👷
+- Worked as english instructor as CNA since Mar/2023
+
+# Certifications 🎓
+- Cambridge English Level 1 Certificate in ESOL International (FCE) 2018 -> Overall Score: 179
+- CNA Master in English Platinum Completed
+ 
