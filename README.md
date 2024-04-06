@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucca Nolasco</h1>
-<h3 align="center">I'm a undergraduate in Computer Science at UESB (Universidade Estadual do Sudoeste da Bahia)</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Undergraduate in Computer Science at UESB (Universidade Estadual do Sudoeste da Bahia)</h3>
+<h4> I enjoy languages such as Java and C, as well as others used in OOP (Object-Oriented Programming). I'm really interested in Machine Learning and Neural Networks, and I'm studying to become an AI developer.</h4>
 <p align="left">
 </p>
 
