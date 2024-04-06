@@ -24,4 +24,4 @@ Additionally, I am intrigued by IoT and mobile programming, and I aim to integra
 - Cambridge English Level 1 Certificate in ESOL International (FCE) 2018 -> Overall Score: 179
 - CNA Master in English Platinum Completed
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccanolasco&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccanolasco&layout=donut-vertical&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
