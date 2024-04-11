@@ -26,4 +26,4 @@ Additionally, I am intrigued by IoT and mobile programming, and I aim to integra
 
 # Github Stats 💎  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccanolasco&layout=donut-vertical&theme=dracula)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccanolasco&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
