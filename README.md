@@ -10,7 +10,7 @@ Additionally, I am intrigued by IoT and mobile programming, and I aim to integra
 # Skills and Tech 💻 
 - Experience with Java and Kotlin. 
 - Minor experience with Android Studio. <br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
 
 # Soft Skills ✏️ 
 - Fluent english
