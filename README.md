@@ -8,10 +8,9 @@ I enjoy languages such as Java and Python (yep), along with others used in Objec
 Additionally, I am intrigued by IoT and mobile programming, and I aim to integrate these three fields: IoT, mobile development, and Machine Learning. By doing so, I hope to contribute to solving real-world problems and assisting others.
 
 # Skills and Tech 💻 
-- Experience with Java and Kotlin.
-- Learning Python 
-- Minor experience with Android Studio. <br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python)](https://skillicons.dev)
+- Experience with Java and Python.
+- Minor experience with Kotlin and Android Studio. <br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin)](https://skillicons.dev)
 
 # Soft Skills ✏️ 
 - Fluent english
