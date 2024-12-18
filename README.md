@@ -29,7 +29,7 @@ I enjoy languages such as Java and Python , along with others used in Object-Ori
 
 # Work Experience 👷 
 - Resident in Software at CEPEDI in DataScience since Jun/2024
-- Worked as english instructor at CNA from Mar/2023 ton April/2024
+- Worked as english instructor at CNA from Mar/2023 to  April/2024
 
 
 # Certifications 🎓 
