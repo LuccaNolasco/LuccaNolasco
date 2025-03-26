@@ -9,12 +9,14 @@ I enjoy languages such as Java and Python , along with others used in Object-Ori
 # Currently Studying 🤖
 - Machine Learning Algorithms
 - Databases
-- Backend in Spring
-- Functional Programming: Haskell
+- Backend in NodeJs / NestJs
 
 # Skills and Tech 💻 
 - Spring
 - Java
+- Javascript
+- NodeJs
+- NestJs
 - Python
 - SQL
 - Postgres
