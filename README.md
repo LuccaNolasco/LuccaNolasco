@@ -1,19 +1,8 @@
-# Who am I? 
-I'm Lucca Nolasco from Brazil. 
-Currently, I'm an undergraduate in Computer Science at UESB (Universidade Estadual da Bahia). 
-
-# Knowledge and Interests 🧪 
-I enjoy languages such as Java and Python , along with others used in Object-Oriented Programming. I have a keen interest in Machine Learning and Neural Networks, and I am actively studying to become an AI developer. I'm also studying Spring/SpringBoot.
-
-
-# Currently Studying 🤖
-- Machine Learning Algorithms
-- Databases
-- Backend in NodeJs / NestJs
 
 # Skills and Tech 💻 
 - Spring
 - Java
+- Rails
 - Javascript
 - NodeJs
 - NestJs
@@ -26,8 +15,9 @@ I enjoy languages such as Java and Python , along with others used in Object-Ori
 
 
 # Work Experience 👷 
-- Resident in Software at CEPEDI in DataScience since Jun/2024
-- Worked as english instructor at CNA from Mar/2023 to  April/2024
+- Operations Support Analyst at V360 since Oct/2025
+- Resident in Software at CEPEDI in DataScience  Jun/2024 - Oct/2025
+- Worked as english instructor at CNA from Mar/2023 - April/2024
 
 
 # Certifications 🎓 
