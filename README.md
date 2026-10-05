@@ -22,12 +22,8 @@ I enjoy languages such as Java and Python , along with others used in Object-Ori
 - Postgres
 - Mongo
 - Minor experience with Kotlin and Android Studio. <br><br>
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,java,spring,postgres,js,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,java,spring,postgres,js,kotlin,rails)](https://skillicons.dev)
 
-# Soft Skills ✏️ 
-- Fluent english
-- Experience in team work
-- Experience in writing academic papers
 
 # Work Experience 👷 
 - Resident in Software at CEPEDI in DataScience since Jun/2024
